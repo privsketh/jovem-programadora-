@@ -1,20 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package jovemprogamadorajava;
 
-/**
- *
- * @author Aluno
- */
-public class JovemProgamadoraJava {
-
-    /**
-     * @param args the command line arguments
-     */
+public class JovemProgamadoraJava 
+   
     public static void main(String[] args) {
-        // TODO code application logic here
+ 
     }
     
 }
