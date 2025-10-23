@@ -1,12 +1,18 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+package jovemprogramadorajava;
 
-/**
- *
- * @author Aluno
- */
+
 public class arrayNome {
+    
+    public static void main(String[] args){
+        String nome;
+        String[] nomes= new String[4];
+        
+        
+       nomes[0] = "Kérollyn";
+       nomes[1] = "Pires";
+       nomes[2] = "Ferreira";
+       nomes[3] = "Dão";
+        
+    }
     
 }
